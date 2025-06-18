@@ -26,6 +26,7 @@ gap: 60%;
 align-items: center;
 
 }
+.navbar img {border-radius: 10px;}
 
 .navbar ul{ 
   list-style-type: none;
